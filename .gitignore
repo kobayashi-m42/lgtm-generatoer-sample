@@ -1,0 +1,4 @@
+.idea
+lgtm_image/*
+!lgtm_image/sample-lgtm-cat.png
+lgtm-generatoer-sample
